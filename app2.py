@@ -24,7 +24,7 @@ st.markdown("Select data source, strategy, model, and agent type. Workflow and r
 # Constants
 # -------------------------------
 VECTOR_DIR = "vector_db"
-DATA_PATH = "/content/it_policy.pdf"
+DATA_PATH = "it_policy.pdf"
 MODELS = {"Phi-3 Mini": "microsoft/phi-3-mini-4k-instruct"}
 
 # -------------------------------
